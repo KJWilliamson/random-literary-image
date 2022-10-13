@@ -1,4 +1,5 @@
-# random-literary-image
+## Random literary image web app. Built with HTML, CSS, and Javascript
+* User clicks button to get random literary image with quote or book excerpt
 
 
 
